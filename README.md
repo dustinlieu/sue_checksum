@@ -15,3 +15,6 @@ $ sha256sum original_kernel_DR590W.img.sue generated_kernel_DR590W.img.sue
 ```
 $ ./sue_checksum.py image.img image.img.sue
 ```
+
+## License
+MIT
